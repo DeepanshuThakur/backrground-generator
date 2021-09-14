@@ -1,0 +1,23 @@
+{
+  "name": "backrground-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepanshuThakur/backrground-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepanshuThakur/backrground-generator/issues"
+  },
+  "homepage": "https://github.com/DeepanshuThakur/backrground-generator#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "lodash": "^4.17.21"
+  }
+}
